@@ -1,5 +1,4 @@
 {
-	"showbib": true,
 	"reference": [
 		{
 			"link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.6393&rep=rep1&type=pdf",

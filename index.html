@@ -10,19 +10,23 @@
     <link rel="stylesheet" href="style.css">
 
   </head>
-  <body mv-app="mad-bib" mv-storage="http://github.com/karger/mad/bib.js">
+  <body>
 
+    <div mv-app="options" storage="local">
+    Show bibtex: <input type="checkbox" property="showbib"/>
+    </div>
+    
+    <div  mv-app="mad-bib" mv-storage="http://github.com/karger/mad/bib.js">
     <h2>MAD Bibliography</h2>
 
-    Show bibtex: <input type="checkbox" property="showbib"/>
     
     <ul>
       <li class="reference" property="reference" mv-multiple>
         <div><a property="link"><span property="title"></span></a></div>
-
         <div property="notes"></div>
         <div property="bibtex" mv-if="showbib"></div>
       </li>
     </ul>
+    </div>
   </body>
 </html>
