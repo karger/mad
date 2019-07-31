@@ -24,6 +24,11 @@
 			"notes": "Exhibit is a precursor to Mavo that focuses on authoring information *visualizations* in html using lists, tables, maps, and charts.  Includes demos, docs, and source code."
 		},
 		{
+			"link": "http://projects.csail.mit.edu/exhibit/Extensions/",
+			"title": "Viz extensions for exhibit",
+			"notes": "A few additional visualization components for exhibit---bar charts, scatter plots, network graph layout"
+		},
+		{
 			"link": "http://people.csail.mit.edu/karger/Papers/dido.pdf",
 			"title": "The web page as a WYSIWYG end-user customizable database-backed information management application ",
 			"notes": "Building on exhibit, this paper describes Dido, an active, data bearing document with a built in editor for the data and also a visual editor for the document itself.",
@@ -52,11 +57,6 @@
 			"link": "//mavo.io/",
 			"title": "the Mavo site",
 			"notes": "The Mavo data-application authoring language.  Includes demos, docs, and source code."
-		},
-		{
-			"link": "http://projects.csail.mit.edu/exhibit/Extensions/",
-			"title": "Viz extensions for exhibit",
-			"notes": "A few additional visualization components for exhibit---bar charts, scatter plots, network graph layout"
 		}
 	]
 }
