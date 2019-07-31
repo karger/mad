@@ -31,7 +31,8 @@
 		},
 		{
 			"link": "//mavo.io/",
-			"title": "the Mavo site"
+			"title": "the Mavo site",
+			"notes": "The Mavo data-application authoring language.  Includes demos, docs, and source code."
 		}
 	]
 }
