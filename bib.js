@@ -43,6 +43,11 @@
 			"link": "//mavo.io/",
 			"title": "the Mavo site",
 			"notes": "The Mavo data-application authoring language.  Includes demos, docs, and source code."
+		},
+		{
+			"link": "https://dspace.mit.edu/handle/1721.1/112822",
+			"title": "Automatic document generation from source code",
+			"notes": "This is a master's thesis I supervised to explore the idea of creating a standardized structured description of user interface component (the exhibit framework) that could be used to automatically generate user documentation for the components, and well as simplifying the code for gluing them together; I think it is relevant to describing components in our hypothetical active document framework."
 		}
 	]
 }
