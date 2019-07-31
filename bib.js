@@ -26,13 +26,22 @@
 		{
 			"link": "http://people.csail.mit.edu/karger/Papers/dido.pdf",
 			"title": "The web page as a WYSIWYG end-user customizable database-backed information management application ",
-			"notes": "Building on exhibit, this system implements an active, data bearing document with a built in editor for the data and also a visual editor for the document itself.",
+			"notes": "Building on exhibit, this paper describes Dido, an active, data bearing document with a built in editor for the data and also a visual editor for the document itself.",
 			"bibtex": "\n@inproceedings{Karger:DIDO,\n author = {Karger, David R. and Ostler, Scott and Lee, Ryan},\n title = {The web page as a WYSIWYG end-user customizable\n                  database-backed information management application},\n booktitle = {UIST '09: Proceedings of the 22nd annual ACM symposium\n                  on User interface software and technology},\n year = {2009},\n month = oct,\n isbn = {978-1-60558-745-5},\n pages = {257--260},\n location = {Victoria, BC, Canada},\n doi = {http://doi.acm.org/10.1145/1622176.1622223},\n publisher = {ACM},\n pdf = {Papers/dido.pdf},\n venue = {UIST},\n url = {http://projects.csail.mit.edu/exhibit/Dido/},\n cat:multiple = {CHI;Haystack;Semantic Web;Systems;Visualization},\n hideaddress = {New York, NY, USA},\n}"
+		},
+		{
+			"title": "The Dido system",
+			"notes": "Project page including a screencast and a working demo"
 		},
 		{
 			"link": "http://dl.acm.org/citation.cfm?id=2984551",
 			"title": "Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML",
 			"notes": "The first paper about Mavo.  Language design and user study."
+		},
+		{
+			"link": "https://dspace.mit.edu/handle/1721.1/112822",
+			"title": "Automatic document generation from source code",
+			"notes": "This is a master's thesis I supervised to explore the idea of creating a standardized structured description of user interface component (the exhibit framework) that could be used to automatically generate user documentation for the components, and well as simplifying the code for gluing them together; I think it is relevant to describing components in our hypothetical active document framework."
 		},
 		{
 			"link": "https://dl.acm.org/citation.cfm?id=3242663",
@@ -45,9 +54,9 @@
 			"notes": "The Mavo data-application authoring language.  Includes demos, docs, and source code."
 		},
 		{
-			"link": "https://dspace.mit.edu/handle/1721.1/112822",
-			"title": "Automatic document generation from source code",
-			"notes": "This is a master's thesis I supervised to explore the idea of creating a standardized structured description of user interface component (the exhibit framework) that could be used to automatically generate user documentation for the components, and well as simplifying the code for gluing them together; I think it is relevant to describing components in our hypothetical active document framework."
+			"link": "http://projects.csail.mit.edu/exhibit/Extensions/",
+			"title": "Viz extensions for exhibit",
+			"notes": "A few additional visualization components for exhibit---bar charts, scatter plots, network graph layout"
 		}
 	]
 }
