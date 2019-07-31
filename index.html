@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="UTF-8">
+    <title>MAD</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://dev.mavo.io/dist/mavo.css">
+    <script src="https://dev.mavo.io/dist/mavo.js"></script>
+    <link rel="stylesheet" href="style.css">
+
+  </head>
+  <body mv-app="mad-bib" mv-storage="http://github.com/karger/mad/bib.js">
+
+    <h2>MAD Bibliography</h2>
+
+    Show bibtex: <input type="checkbox" property="showbib"/>
+    
+    <ul>
+      <li class="reference" property="reference" mv-multiple>
+        <div><a property="link"><span property="title"></span></a></div>
+
+        <div property="notes"></div>
+        <div property="bibtex" mv-if="showbib"></div>
+      </li>
+    </ul>
+  </body>
+</html>
