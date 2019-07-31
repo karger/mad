@@ -19,10 +19,19 @@
 			"bibtex": "@inproceedings{Karger:Exhibit,\n        title = \"Exhibit: Lightweight Structured Data Publishing\",\n        booktitle = {WWW 2007},\n        pages = {737--746},\n        year = \"2007\",\n        month = may,\n        venue = \"WWW\",\n location = {Banff, Alberta, Canada},\n doi = {10.1145/1242572.1242672},\n        pdf = \"http://people.csail.mit.edu/dfhuynh/research/papers/www2007-exhi\\\nbit.pdf\",\n        pdfKB = \"2460\",\n        cat:multiple={CHI;Databases;Visualization;Semantic Web},\n        author = \"David Huynh and Robert Miller and David R. Karger\"\n}\n"
 		},
 		{
+			"link": "//simile-widgets.org/exhibit/",
+			"title": "The Exhibit site",
+			"notes": "Exhibit is a precursor to Mavo that focuses on authoring information *visualizations* in html using lists, tables, maps, and charts.  Includes demos, docs, and source code."
+		},
+		{
 			"link": "http://people.csail.mit.edu/karger/Papers/dido.pdf",
 			"title": "The web page as a WYSIWYG end-user customizable database-backed information management application ",
 			"notes": "This system implements an active, data bearing document with a built in editor for the data and also a visual editor for the document itself.  ",
 			"bibtex": "\n@inproceedings{Karger:DIDO,\n author = {Karger, David R. and Ostler, Scott and Lee, Ryan},\n title = {The web page as a WYSIWYG end-user customizable\n                  database-backed information management application},\n booktitle = {UIST '09: Proceedings of the 22nd annual ACM symposium\n                  on User interface software and technology},\n year = {2009},\n month = oct,\n isbn = {978-1-60558-745-5},\n pages = {257--260},\n location = {Victoria, BC, Canada},\n doi = {http://doi.acm.org/10.1145/1622176.1622223},\n publisher = {ACM},\n pdf = {Papers/dido.pdf},\n venue = {UIST},\n url = {http://projects.csail.mit.edu/exhibit/Dido/},\n cat:multiple = {CHI;Haystack;Semantic Web;Systems;Visualization},\n hideaddress = {New York, NY, USA},\n}"
+		},
+		{
+			"link": "//mavo.io/",
+			"title": "the Mavo site"
 		}
 	]
 }
