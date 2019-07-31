@@ -29,6 +29,11 @@
 			"notes": "A few additional visualization components for exhibit---bar charts, scatter plots, network graph layout"
 		},
 		{
+			"link": "https://dspace.mit.edu/handle/1721.1/112822",
+			"title": "Automatic document generation from source code",
+			"notes": "This is a master's thesis I supervised to explore the idea of creating a standardized structured description of user interface components (in the exhibit framework) that could be used to automatically generate user documentation for the components, and well as simplifying the code for gluing them together; I think it is relevant to describing components in our hypothetical active document framework."
+		},
+		{
 			"link": "http://people.csail.mit.edu/karger/Papers/dido.pdf",
 			"title": "The web page as a WYSIWYG end-user customizable database-backed information management application ",
 			"notes": "Building on exhibit, this paper describes Dido, an active, data bearing document with a built in editor for the data and also a visual editor for the document itself.",
@@ -42,11 +47,6 @@
 			"link": "http://dl.acm.org/citation.cfm?id=2984551",
 			"title": "Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML",
 			"notes": "The first paper about Mavo.  Language design and user study."
-		},
-		{
-			"link": "https://dspace.mit.edu/handle/1721.1/112822",
-			"title": "Automatic document generation from source code",
-			"notes": "This is a master's thesis I supervised to explore the idea of creating a standardized structured description of user interface component (the exhibit framework) that could be used to automatically generate user documentation for the components, and well as simplifying the code for gluing them together; I think it is relevant to describing components in our hypothetical active document framework."
 		},
 		{
 			"link": "https://dl.acm.org/citation.cfm?id=3242663",
