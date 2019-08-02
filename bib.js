@@ -41,6 +41,12 @@
 			"bibtex": "@inproceedings{Karger:DIDO, author = {Karger, David R. and Ostler, Scott and Lee, Ryan}, title = {The web page as a WYSIWYG end-user customizable                  database-backed information management application}, booktitle = {UIST '09: Proceedings of the 22nd annual ACM symposium                  on User interface software and technology}, year = {2009}, month = oct, isbn = {978-1-60558-745-5}, pages = {257--260}, location = {Victoria, BC, Canada}, doi = {http://doi.acm.org/10.1145/1622176.1622223}, publisher = {ACM}, pdf = {Papers/dido.pdf}, venue = {UIST}, url = {http://projects.csail.mit.edu/exhibit/Dido/}, cat:multiple = {CHI;Haystack;Semantic Web;Systems;Visualization}, hideaddress = {New York, NY, USA},}"
 		},
 		{
+			"link": "End-users Publishing Structured Information on the Web: An Observational Study of What, Why, and How",
+			"title": "End-users Publishing Structured Information on the Web: An Observational Study of What, Why, and How",
+			"notes": "This is a paper about how people used Exhibit in the wild---why they needed it, what problems it solved, and why no existing tools were right for them.",
+			"bibtex": "@inproceedings{Karger:ExhibitUsers,"
+		},
+		{
 			"title": "The Dido system",
 			"notes": "Project page including a screencast and a working demo"
 		},
@@ -58,12 +64,6 @@
 			"link": "//mavo.io/",
 			"title": "the Mavo site",
 			"notes": "The Mavo data-application authoring language.  Includes demos, docs, and source code."
-		},
-		{
-			"link": "End-users Publishing Structured Information on the Web: An Observational Study of What, Why, and How",
-			"title": "End-users Publishing Structured Information on the Web: An Observational Study of What, Why, and How",
-			"notes": "This is a paper about how people used Exhibit in the wild---why they needed it, what problems it solved, and why no existing tools were right for them.",
-			"bibtex": "@inproceedings{Karger:ExhibitUsers,"
 		}
 	]
 }
