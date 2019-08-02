@@ -57,6 +57,11 @@
 			"link": "//mavo.io/",
 			"title": "the Mavo site",
 			"notes": "The Mavo data-application authoring language.  Includes demos, docs, and source code."
+		},
+		{
+			"link": "End-users Publishing Structured Information on the Web: An Observational Study of What, Why, and How",
+			"title": "End-users Publishing Structured Information on the Web: An Observational Study of What, Why, and How",
+			"notes": "This is a paper about how people used Exhibit in the wild---why they needed it, what problems it solved, and why no existing tools were right for them."
 		}
 	]
 }
