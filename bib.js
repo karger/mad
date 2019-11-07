@@ -63,6 +63,11 @@
 			"link": "//mavo.io/",
 			"title": "the Mavo site",
 			"notes": "The Mavo data-application authoring language.  Includes demos, docs, and source code."
+		},
+		{
+			"link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000361",
+			"title": "Adventures in Semantic Publishing: Exemplar Semantic Enhancements of a Research Article",
+			"notes": "Example of a scientific article that has been augmented with lots of in-document data"
 		}
 	]
 }
