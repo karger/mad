@@ -68,6 +68,10 @@
 			"link": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000361",
 			"title": "Adventures in Semantic Publishing: Exemplar Semantic Enhancements of a Research Article",
 			"notes": "Example of a scientific article that has been augmented with lots of in-document data"
+		},
+		{
+			"link": "https://en.wikipedia.org/wiki/Semantic_publishing",
+			"title": "Semantic Publishing Wikipedia article"
 		}
 	]
 }
