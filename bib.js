@@ -72,6 +72,11 @@
 		{
 			"link": "https://en.wikipedia.org/wiki/Semantic_publishing",
 			"title": "Semantic Publishing Wikipedia article"
+		},
+		{
+			"link": "http://www.tkuhn.org/pub/sempub/sempub.dokieli.html",
+			"title": "Genuine Semantic Publishing",
+			"notes": "Article (active document) describing various ways to build rich data into a document"
 		}
 	]
 }
