@@ -82,6 +82,12 @@
 			"link": "https://explorablemultiverse.github.io/",
 			"title": "Increasing the Transparency of Research Papers with Explorable Multiverse Analyses",
 			"notes": "An active document that lets the reader change certain assumptions and updates the whole paper to reflect them."
-		}
+		},
+		{
+			"link": "http://worrydream.com/ExplorableExplanations/",
+			"title": "Explorable Explanations",
+			"notes": "Essay on how to let the reader being actively involved in understanding an explanation through interaction."
+		},
+		{}
 	]
 }
