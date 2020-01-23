@@ -77,6 +77,11 @@
 			"link": "http://www.tkuhn.org/pub/sempub/sempub.dokieli.html",
 			"title": "Genuine Semantic Publishing",
 			"notes": "Article (active document) describing various ways to build rich data into a document"
+		},
+		{
+			"link": "https://explorablemultiverse.github.io/",
+			"title": "Increasing the Transparency of Research Papers with Explorable Multiverse Analyses",
+			"notes": "An active document that lets the reader change certain assumptions and updates the whole paper to reflect them."
 		}
 	]
 }
