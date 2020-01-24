@@ -1,11 +1,6 @@
 {
 	"reference": [
 		{
-			"link": "https://www.madcapsoftware.com/products/flare/key-features",
-			"title": "MadCap Authoring Tool",
-			"notes": "Authoring and publishing for technical writers and content developers."
-		},
-		{
 			"link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.6393&rep=rep1&type=pdf",
 			"title": "Active tioga documents: an exploration of two paradigms",
 			"notes": "This is the ancient paper that introduced the idea of active documents.",
