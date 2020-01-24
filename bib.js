@@ -1,9 +1,6 @@
 {
 	"reference": [
 		{
-			"link": "https://www.air.org/sites/default/files/downloads/report/Identifying-Text-Task-Reader-Interactions-Related-to-Item-and-Block-Difficulty-NAEP-Oct-2017.pdf"
-		},
-		{
 			"link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.6393&rep=rep1&type=pdf",
 			"title": "Active tioga documents: an exploration of two paradigms",
 			"notes": "This is the ancient paper that introduced the idea of active documents.",
@@ -91,6 +88,8 @@
 			"title": "Explorable Explanations",
 			"notes": "Essay on how to let the reader being actively involved in understanding an explanation through interaction."
 		},
-		{}
+		{
+			"link": "http://people.csail.mit.edu/karger/Projects/Mad/?storage=https%3A%2F%2Fraw.githubusercontent.com%2FJumanaFM%2Fmad%2Fmaster%2Fbib.js&storage=https%3A%2F%2Fraw.githubusercontent.com%2FJumanaFM%2Fmad%2Fmaster%2Fbib.js&storage=https%3A%2F%2Fgithub.com%2FJumanaFM%2Fmad%2Fbib.js&storage=https%3A%2F%2Fraw.githubusercontent.com%2FJumanaFM%2Fmad%2Fmaster%2Fbib.js&storage=https%3A%2F%2Fraw.githubusercontent.com%2FJumanaFM%2Fmad%2Fmaster%2Fbib.js"
+		}
 	]
 }
