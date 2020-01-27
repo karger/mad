@@ -88,6 +88,11 @@
 			"title": "Explorable Explanations",
 			"notes": "Essay on how to let the reader being actively involved in understanding an explanation through interaction."
 		},
+		{
+			"link": "test",
+			"title": "Test",
+			"notes": "added by jumana will be removed till the issue with merging is solved"
+		},
 		{}
 	]
 }
