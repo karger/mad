@@ -90,5 +90,6 @@
 			"notes": "Essay on how to let the reader being actively involved in understanding an explanation through interaction."
 		},
 		{}
-	]
+	],
+	"showbib": false
 }
