@@ -1,6 +1,5 @@
 {
 	"reference": [
-		{},
 		{
 			"link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.6393&rep=rep1&type=pdf",
 			"title": "Active tioga documents: an exploration of two paradigms",
@@ -89,7 +88,11 @@
 			"title": "Explorable Explanations",
 			"notes": "Essay on how to let the reader being actively involved in understanding an explanation through interaction."
 		},
+		{
+			"link": "test",
+			"title": "Test",
+			"notes": "added by jumana will be removed till the issue with merging is solved"
+		},
 		{}
-	],
-	"showbib": false
+	]
 }
