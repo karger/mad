@@ -4,19 +4,19 @@
 			"link": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.46.6393&rep=rep1&type=pdf",
 			"title": "Active tioga documents: an exploration of two paradigms",
 			"notes": "This is the ancient paper that introduced the idea of active documents.",
-			"bibtex": "@article{Terry:ActiveTioga,\n author = {Terry, Douglas B. and Baker, Donald G.},\n title = {Active tioga documents: an exploration of two paradigms},\n journal = {Electronic Publishing---Origination, Dissemination, and Design},\n volume = {3},\n number = {2},\n year = {1990},\n issn = {0894-3982},\n pages = {105--122},\n publisher = {John Wiley and Sons Ltd.},\n address = {Chichester, UK},\n}\n"
+			"bibtex": "@article{Terry:ActiveTioga, author = {Terry, Douglas B. and Baker, Donald G.}, title = {Active tioga documents: an exploration of two paradigms}, journal = {Electronic Publishing---Origination, Dissemination, and Design}, volume = {3}, number = {2}, year = {1990}, issn = {0894-3982}, pages = {105--122}, publisher = {John Wiley and Sons Ltd.}, address = {Chichester, UK},}"
 		},
 		{
 			"link": "http://doi.acm.org/10.1145/146486.146547",
 			"title": "EmbeddedButtons: supporting buttons in documents",
 			"notes": "A related early paper on active documents",
-			"bibtex": "\n@article{Bier:EmbeddedButtons,\n author = {Bier, Eric A.},\n title = {EmbeddedButtons: supporting buttons in documents},\n journal = {ACM Transactions on Information Systems},\n volume = {10},\n number = {4},\n year = {1992},\n issn = {1046-8188},\n pages = {381--407},\n doi = {http://doi.acm.org/10.1145/146486.146547},\n publisher = {ACM},\n address = {New York, NY, USA},\n }\n"
+			"bibtex": "@article{Bier:EmbeddedButtons, author = {Bier, Eric A.}, title = {EmbeddedButtons: supporting buttons in documents}, journal = {ACM Transactions on Information Systems}, volume = {10}, number = {4}, year = {1992}, issn = {1046-8188}, pages = {381--407}, doi = {http://doi.acm.org/10.1145/146486.146547}, publisher = {ACM}, address = {New York, NY, USA}, }"
 		},
 		{
 			"link": "http://people.csail.mit.edu/dfhuynh/research/papers/www2007-exhibit.pdf",
 			"title": "Exhibit: Lightweight structured data publishing",
 			"notes": "This was our first project that explored the idea of an in-html data interaction language.  Exhibit focused on info *viz*---presenting the data in lists, charts, maps, tables.  Later, we added data editing functionality with Dido.",
-			"bibtex": "@inproceedings{Karger:Exhibit,\n        title = \"Exhibit: Lightweight Structured Data Publishing\",\n        booktitle = {WWW 2007},\n        pages = {737--746},\n        year = \"2007\",\n        month = may,\n        venue = \"WWW\",\n location = {Banff, Alberta, Canada},\n doi = {10.1145/1242572.1242672},\n        pdf = \"http://people.csail.mit.edu/dfhuynh/research/papers/www2007-exhi\\\nbit.pdf\",\n        pdfKB = \"2460\",\n        cat:multiple={CHI;Databases;Visualization;Semantic Web},\n        author = \"David Huynh and Robert Miller and David R. Karger\"\n}\n"
+			"bibtex": "@inproceedings{Karger:Exhibit,        title = \"Exhibit: Lightweight Structured Data Publishing\",        booktitle = {WWW 2007},        pages = {737--746},        year = \"2007\",        month = may,        venue = \"WWW\", location = {Banff, Alberta, Canada}, doi = {10.1145/1242572.1242672},        pdf = \"http://people.csail.mit.edu/dfhuynh/research/papers/www2007-exhi\\bit.pdf\",        pdfKB = \"2460\",        cat:multiple={CHI;Databases;Visualization;Semantic Web},        author = \"David Huynh and Robert Miller and David R. Karger\"}"
 		},
 		{
 			"link": "//simile-widgets.org/exhibit/",
@@ -88,6 +88,10 @@
 			"title": "Explorable Explanations",
 			"notes": "Essay on how to let the reader being actively involved in understanding an explanation through interaction."
 		},
-		{}
+		{
+			"link": "https://www.ecs.soton.ac.uk/research/projects/281",
+			"title": "MyTea e-science project",
+			"notes": "Richer data representations for capturing information about experiments"
+		}
 	]
 }
